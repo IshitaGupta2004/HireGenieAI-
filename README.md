@@ -2,6 +2,8 @@
 
 ### AI-Powered ATS Resume Screening & Recruitment Assistant
 
+APP LINK - https://hiregenieai00.streamlit.app/
+
 HireGenie AI is an AI-powered recruitment platform designed to help **job applicants improve their resumes** and help **HR professionals screen and evaluate candidates** more efficiently.
 
 The system analyzes a candidate's resume against a given job description, calculates an ATS score, identifies matched and missing skills, and provides personalized recommendations. It also uses AI to generate resume improvements, interview questions, cover letters, career roadmaps, candidate summaries, and hiring recommendations.
